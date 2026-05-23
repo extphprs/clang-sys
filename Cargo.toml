@@ -5,7 +5,7 @@ edition = "2021"
 name = "ext-php-rs-clang-sys"
 authors = ["Kyle Mayes <kyle@mayeses.com>"]
 
-version = "1.8.1-extphprs.1"
+version = "1.8.1-extphprs.2"
 
 readme = "README.md"
 license = "Apache-2.0"
@@ -15,7 +15,6 @@ description = "Fork of clang-sys with preserver none support."
 documentation = "https://docs.rs/clang-sys"
 repository = "https://github.com/extphprs/clang-sys"
 
-links = "clang"
 build = "build.rs"
 
 [features]
